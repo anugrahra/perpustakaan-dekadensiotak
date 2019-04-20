@@ -1,0 +1,107 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+#bodyHome {
+	background-image: url('http://getwallpapers.com/wallpaper/full/2/0/c/165831.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	font-family: 'Numans', sans-serif;
+	position: relative;
+}
+
+#cardLogin {
+	margin: 0;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	height: 375px;
+	width: 400px;
+	background-color: rgba(0,0,0,0.5) !important;
+}
+
+#HeaderHomeGrup {
+	position: absolute;
+	top: 6%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+#mainMenu {
+	left: 50%;
+	top: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	position: absolute;
+}
+
+#headerHome {
+	margin-top: 5px;
+	width: 400px;
+	color: white;
+	background-color: rgba(0,0,0,0.5) !important;
+	border-radius: 3px;
+}
+
+#subHeaderHome {
+	left: 50%;
+	width: 400px;
+	color: white;
+	background-color: rgba(0,0,0,0.5) !important;
+	border-radius: 3px;	
+}
+
+.hitungTotalHome {
+	left: 50%;
+	width: 400px;
+	color: white;
+	background-color: rgba(0,0,0,0.5) !important;
+	border-radius: 3px;
+}
+
+#card-headerLogin {
+	color: white;
+}
+
+.remember {
+	color: white;
+}
+
+.remember input {
+	width: 20px;
+	height: 20px;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+
+.login_btn {
+	color: black;
+	background-color: #FFC312;
+	width: 100px;
+}
+
+.login_btn:hover {
+	color: black;
+	background-color: yellow;
+}
+
+.links {
+	color: white;
+}
+
+.links a {
+	margin-left: 4px;
+}
+
+#footerLogin {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	color: white;
+	width: 400px;
+	background-color: rgba(0,0,0,0.5) !important;
+	border-radius: 3px;
+}
